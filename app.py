@@ -12,7 +12,7 @@ from langchain_groq import ChatGroq
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 PLAY_HT_API_KEY = os.getenv("PLAY_HT_API_KEY")
 PLAY_HT_USER_ID = os.getenv("PLAY_HT_USER_ID")
-PLAY_HT_VOICE_ID = "s3://voice-cloning-zero-shot/a5201a3e-a9c5-4d86-b95c-6300dfd5100a/original/manifest.json"  
+PLAY_HT_VOICE_ID = "s3://voice-cloning-zero-shot/YKkprXbpKueofOvSPnkFJ/chetankumar/manifest.json"  
 
 play_ht_api_get_audio_url = "https://play.ht/api/v2/tts"
 
