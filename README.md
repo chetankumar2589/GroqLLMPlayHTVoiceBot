@@ -1,3 +1,11 @@
+
+
+# HuggingFace Link
+https://huggingface.co/spaces/ChetanKumar01/VoiceChatBot
+
+# Linked In Link
+https://www.linkedin.com/posts/chetan-kumar-patruni_voicechatbot-a-hugging-face-space-by-chetankumar01-activity-7338589472428568579-5Q1m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4_SUQBBYHcCbB8fGJDReojMInn5E4i0Ew
+
 ---
 title: VoiceChatBot
 emoji: 💻
